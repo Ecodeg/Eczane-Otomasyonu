@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ebrar\\Desktop\\DATA PROJE\\Eczane Otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF94435C-6CE6-42CA-8C38-E59D498AACF7}|Eczane Otomasyonu.csproj|c:\\users\\ebrar\\desktop\\data proje\\eczane otomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF94435C-6CE6-42CA-8C38-E59D498AACF7}|Eczane Otomasyonu.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\ebrar\\Desktop\\DATA PROJE\\Eczane Otomasyonu\\AnaForm.cs",
+              "RelativeDocumentMoniker": "AnaForm.cs",
+              "ToolTip": "C:\\Users\\ebrar\\Desktop\\DATA PROJE\\Eczane Otomasyonu\\AnaForm.cs",
+              "RelativeToolTip": "AnaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:29:06.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

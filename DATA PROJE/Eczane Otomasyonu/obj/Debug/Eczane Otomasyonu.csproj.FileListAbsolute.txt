@@ -1,0 +1,20 @@
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe.config
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.pdb
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.AnaForm.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.GirişFormu.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.KullanıcıYönetimi.UCCalisanDuzenle.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.KullanıcıYönetimi.UCCalisanEkle.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Properties.Resources.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Raporlar.UCGunSonuRaporu.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Recete.UCRecete.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.StokYönetimi.UCIlacDuzenle.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.StokYönetimi.UCIlacEkle.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.StokYönetimi.UCKritikStokSeviyesi.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.StokYönetimi.UCSonKullanmaTarihi.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.UCAnaSayfa.resources
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.exe
+C:\Users\ebrar\Desktop\DATA PROJE\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.pdb
